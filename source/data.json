@@ -1,0 +1,141 @@
+{
+    "pages": [
+        {
+            "visiable": true,
+            "id": 1,
+            "icon": "HlibBoikoPortfoilio/source/img/icons/home.png",
+            "name": "Home",
+            "content": [
+                [
+                    {
+                        "text": "Hallo, ich bin",
+                        "highlighted": false
+                    },
+                    {
+                        "text": "Hlib",
+                        "highlighted": true
+                    },
+                    {
+                        "text": "!",
+                        "highlighted": false
+                    },
+                    {
+                        "delay": 1100
+                    }
+                ],
+                [
+                    {
+                        "text": "Ich interessiere mich für",
+                        "highlighted": false
+                    },
+                    {
+                        "icon": "HlibBoikoPortfoilio/source/img/icons/laptop-computer.png"
+                    },
+                    {
+                        "delay": 1500
+                    }
+                ],
+                [
+                    {
+                        "text": "Ausbildung",
+                        "highlighted": true,
+                        "delay": 1
+                    },
+                    {
+                        "icon": "HlibBoikoPortfoilio/source/img/icons/open-book.png"
+                    },
+                    {
+                        "delay": 5000
+                    }
+                ]
+            ]
+        },
+        {
+            "visiable": true,
+            "id": 2,
+            "icon": "HlibBoikoPortfoilio/source/img/icons/binoculars.png",
+            "name": "Projects",
+            "content": [
+                {
+                    "sliderId": 1,
+                    "title": "BizarreCraft",
+                    "description": "Ich halte diese Website für eine der stilvollsten und schönsten in meinem Portfolio. Sie wurde für einen privaten Minecraft-Server entworfen und spiegelt einen kreativen Ansatz zur Schaffung eines einzigartigen Designs wider",
+                    "image": "HlibBoikoPortfoilio/source/img/Projects/img/BizarreCraft.png",
+                    "link": "HlibBoikoPortfoilio/source/img/Projects/PDF/MServer.pdf"
+                },
+                {
+                    "sliderId": 2,
+                    "title": "FermaVDom",
+                    "description": "Dieses Projekt war mein erster Auftrag, und ich bin stolz darauf, wie es geworden ist. Die Website wurde für ein Unternehmen entworfen, das Molkereiprodukte herstellt und vertreibt",
+                    "image": "HlibBoikoPortfoilio/source/img/Projects/img/FermaVDom.png",
+                    "link": "HlibBoikoPortfoilio/source/img/Projects/PDF/FermaVDom.pdf"
+                },
+                {
+                    "sliderId": 3,
+                    "title": "AirPods Store",
+                    "description": "Dieses Projekt war ein kleines Projekt. Die Website wurde für einen Online-Shop entwickelt, der sich auf den Verkauf von AirPods spezialisiert hat.",
+                    "image": "HlibBoikoPortfoilio/source/img/Projects/img/AirPodsStore.png",
+                    "link": "HlibBoikoPortfoilio/source/img/Projects/PDF/AirStore.pdf"
+                },
+                {
+                    "sliderId": 4,
+                    "title": " Certain Scientific Notes (CSN)",
+                    "description": "Ceratin Scientific Notes ist eine 2D-Visual Novel im Science-Fiction-Genre, die in einem Freundeskreis entstanden ist. Ich war der einzige Programmierer des Projekts. Das Spiel erzählt die Geschichte von zwei befreundeten Helden, die versuchen, die Welt vor einem bösen Konzern zu retten. Das Spiel wurde auf Unity entwickelt, wobei ich aktiv OOP Prinzipien anwandte und mein eigenes Tick-System zur Steuerung der Spielprozesse entwickelte. Das Projekt enthielt einzigartige Elemente wie die vierte Wand: Das Spiel konnte den Spieler mit dem Namen des aktuellen Computerbenutzers ansprechen und Befehle von der CMD-Konsole abfangen, um die Geschichte voranzutreiben. Während des Entwicklungsprozesses sammelte ich wertvolle Erfahrungen in der Teamarbeit, verbesserte meine Programmierkenntnisse und lernte, wie man innovative Mechanismen in das Gameplay integriert.",
+                    "image": "HlibBoikoPortfoilio/source/img/Projects/img/CSN.png",
+                    "link": "HlibBoikoPortfoilio/source/img/Projects/PDF/CSN.pdf"
+                },
+                {
+                    "sliderId": 5,
+                    "title": "RAM (GameDev AG)",
+                    "description": "„RAM“ ist ein 2D-Top-Down-Shooter, den ich während meiner Schulzeit mit der Unity 2DEngine entwickelt habe. In diesem Spiel steuert der Spieler einen Charakter mit einem Widderkopf, der aus einem düsteren Kerker entkommen und das Böse auf seinem Weg vernichten muss.Die Arbeit an „RAM“ war ein wichtiger Schritt in meiner Entwicklung als Entwickler. Dieses Projekt half mir, gamemade besser zu verstehen, und vermittelte mir auch die Erfahrung, unabhängig an einem komplexen und langfristigen Projekt zu arbeiten.",
+                    "image": "HlibBoikoPortfoilio/source/img/Projects/img/RAM.png",
+                    "link": "HlibBoikoPortfoilio/source/img/Projects/PDF/RAM.pdf"
+                },
+                {
+                    "sliderId": 6,
+                    "title": " Python Programm für Scrap Mechanic",
+                    "description": "Programm für Scrap Mechanic ist ein Projekt in Python mit grafischer Benutzeroberfläche, das entwickelt wurde, um den Bauprozess im Spiel Scrap Mechanic zu vereinfachen. Das Programm lud abonnierte Konstruktionen aus dem Steam-Workshop herunter, konvertierte deren Dateien aus dem speziellen Spielformat und erstellte automatisch eine schematische Darstellung, die auf Blöcke angewendet wurde. Dadurch konnten Konstruktionen mit sichtbaren Umrissen im Überlebensmodus leicht nachgebaut werden. Das Projekt wurde auf GitHub veröffentlicht und erhielt dort eine kleine Popularität unter Scrap Mechanic Spielern, die an der Optimierung des Spielerlebnisses interessiert waren.",
+                    "image": "HlibBoikoPortfoilio/source/img/Projects/img/ScrapM.png",
+                    "link": "HlibBoikoPortfoilio/source/img/Projects/PDF/ScrapM.pdf"
+                },
+                {
+                    "sliderId": 7,
+                    "title": "Alte Front-End Portfolio",
+                    "description": "Das ist mein Portfolio, das ich für freiberufliche Arbeit verwendet habe. Mit seiner Hilfe fanden mich Kunden und vertrauten mir bei der Entwicklung ihrer Projekte.",
+                    "image": "HlibBoikoPortfoilio/source/img/Projects/img/AltPortfolio.png",
+                    "link": "HlibBoikoPortfoilio/source/img/Projects/PDF/AltPortfolio.pdf"
+                },
+                {
+                    "sliderId": 7,
+                    "title": "AR-Projekt für die Geschichte Schulausstellung",
+                    "description": "Ein AR-Projekt für eine Schulausstellung war dem Holocaust gewidmet und zeigte die tragischen Ereignisse der Verschleppung von Juden aus ihren Häusern in Konzentrationslager. Mit Hilfe von Augmented Reality (AR) schuf ich eine interaktive Anwendung, die es den Betrachtern ermöglichte, in die Atmosphäre dieser Zeit einzutauchen. Über ein mobiles Gerät oder ein Tablet konnte man animierte Szenen sehen, die von historischen Referenzen und einem Sounddesign begleitet wurden, das die Tragödie der Ereignisse vermittelte. Dieses Projekt hat nicht nur mein technisches Niveau und meine Fähigkeit, mit AR-Technologien zu arbeiten, unter Beweis gestellt, sondern auch ein wichtiges historisches Thema aufgedeckt und einen Beitrag zur Erinnerungsbildung und zum Bewusstsein für die Bedeutung der Menschlichkeit in der modernen Gesellschaft geleistet.",
+                    "image": "HlibBoikoPortfoilio/source/img/Projects/img/ARAPP.png",
+                    "link": "HlibBoikoPortfoilio/source/img/Projects/PDF/AR.pdf",
+                    "phone": true
+                }
+            ]
+        },
+        {
+            "visiable": true,
+            "id": 3,
+            "icon": "HlibBoikoPortfoilio/source/img/icons/profile-user.png",
+            "name": "AboutMe",
+            "content": [
+                {
+                    "id": 1,
+                    "title": "Empfehlungsschreiben 1",
+                    "description": "",
+                    "image": "HlibBoikoPortfoilio/source/img/Empfehlungsschreiben/preview/1.png",
+                    "link": "HlibBoikoPortfoilio/source/img/Empfehlungsschreiben/Empfehlungsschreiben1.pdf"
+                },
+                {
+                    "id": 2,
+                    "title": "Empfehlungsschreiben 2",
+                    "description": "",
+                    "image": "HlibBoikoPortfoilio/source/img/Empfehlungsschreiben/preview/2.png",
+                    "link": "HlibBoikoPortfoilio/source/img/Empfehlungsschreiben/Empfehlungsschreiben2.pdf"
+                }
+            ]
+        }
+    ]
+}
