@@ -74,13 +74,6 @@
         },
         {
           "sliderId": 7,
-          "title": "Alte Front-End Portfolio",
-          "description": "Das ist mein Portfolio, das ich für freiberufliche Arbeit verwendet habe. Mit seiner Hilfe fanden mich Kunden und vertrauten mir bei der Entwicklung ihrer Projekte.",
-          "image": "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/AltPortfolio.png",
-          "link": "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/PDF/AltPortfolio.pdf"
-        },
-        {
-          "sliderId": 7,
           "title": "AR-Projekt für die Geschichte Schulausstellung",
           "description": "Ein AR-Projekt für eine Schulausstellung war dem Holocaust gewidmet und zeigte die tragischen Ereignisse der Verschleppung von Juden aus ihren Häusern in Konzentrationslager. Mit Hilfe von Augmented Reality (AR) schuf ich eine interaktive Anwendung, die es den Betrachtern ermöglichte, in die Atmosphäre dieser Zeit einzutauchen. Über ein mobiles Gerät oder ein Tablet konnte man animierte Szenen sehen, die von historischen Referenzen und einem Sounddesign begleitet wurden, das die Tragödie der Ereignisse vermittelte. Dieses Projekt hat nicht nur mein technisches Niveau und meine Fähigkeit, mit AR-Technologien zu arbeiten, unter Beweis gestellt, sondern auch ein wichtiges historisches Thema aufgedeckt und einen Beitrag zur Erinnerungsbildung und zum Bewusstsein für die Bedeutung der Menschlichkeit in der modernen Gesellschaft geleistet.",
           "image": "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/ARAPP.png",
@@ -113,3 +106,4 @@
     }
   ]
 }
+
