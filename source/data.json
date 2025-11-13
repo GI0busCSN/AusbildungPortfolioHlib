@@ -35,6 +35,13 @@
           "title": "Looksmaxing - your personal AI trainer",
           "description": "Eine von mir entwickelte Web-App auf Basis von Vue.js, die mithilfe der ChatGPT-API das Aussehen eines Nutzers nach dem „Looksmax“-Trend analysiert und personalisierte Verbesserungstipps gibt. Zusätzlich habe ich mit dem Framework Ionic und Capacitor eine Android-Version der App entwickelt. Bei der Entwicklung nutzte ich auch VueUse, um reaktive Funktionen effizient umzusetzen und den Code übersichtlich und wartbar zu gestalten. Durch dieses Projekt habe ich meine Kenntnisse in Vue.js, API-Integration und asynchroner Datenverarbeitung vertieft sowie wertvolle Erfahrungen im Mobile-Development, UX-Design und in der Umsetzung responsiver Benutzeroberflächen gesammelt. Außerdem habe ich gelernt, KI-basierte Funktionen sinnvoll in benutzerfreundliche Anwendungen zu integrieren und komplexe technische Prozesse klar und intuitiv für Nutzer darzustellen.",
           "image": "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/Maxing.png",
+          "slider":[
+            "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/Maxing.png",
+            "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/LooksMaxing/slide1.png",
+            "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/LooksMaxing/slide2.png",
+            "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/LooksMaxing/slide3.png",
+            "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/LooksMaxing/slide4.png"
+          ],
           "link": "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/PDF/Maxing.pdf",
           "projectLink": "https://gi0buscsn.github.io/LooksMaxingAI/"
         },
