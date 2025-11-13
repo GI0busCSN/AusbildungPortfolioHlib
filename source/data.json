@@ -14,12 +14,16 @@
         ],
         [
           { "text": "Ich interessiere mich für", "highlighted": false },
-          { "icon": "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/icons/laptop-computer.png" },
+          {
+            "icon": "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/icons/laptop-computer.png"
+          },
           { "delay": 1500 }
         ],
         [
           { "text": "Ausbildung", "highlighted": true, "delay": 1 },
-          { "icon": "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/icons/open-book.png" },
+          {
+            "icon": "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/icons/open-book.png"
+          },
           { "delay": 5000 }
         ]
       ]
@@ -35,7 +39,7 @@
           "title": "Looksmaxing - your personal AI trainer",
           "description": "Eine von mir entwickelte Web-App auf Basis von Vue.js, die mithilfe der ChatGPT-API das Aussehen eines Nutzers nach dem „Looksmax“-Trend analysiert und personalisierte Verbesserungstipps gibt. Zusätzlich habe ich mit dem Framework Ionic und Capacitor eine Android-Version der App entwickelt. Bei der Entwicklung nutzte ich auch VueUse, um reaktive Funktionen effizient umzusetzen und den Code übersichtlich und wartbar zu gestalten. Durch dieses Projekt habe ich meine Kenntnisse in Vue.js, API-Integration und asynchroner Datenverarbeitung vertieft sowie wertvolle Erfahrungen im Mobile-Development, UX-Design und in der Umsetzung responsiver Benutzeroberflächen gesammelt. Außerdem habe ich gelernt, KI-basierte Funktionen sinnvoll in benutzerfreundliche Anwendungen zu integrieren und komplexe technische Prozesse klar und intuitiv für Nutzer darzustellen.",
           "image": "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/Maxing.png",
-          "slider":[
+          "slider": [
             "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/Maxing.png",
             "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/LooksMaxing/slide1.png",
             "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/LooksMaxing/slide2.png",
@@ -71,6 +75,13 @@
           "title": " Certain Scientific Notes (CSN)",
           "description": "Ceratin Scientific Notes ist eine 2D-Visual Novel im Science-Fiction-Genre, die in einem Freundeskreis entstanden ist. Ich war der einzige Programmierer des Projekts. Das Spiel erzählt die Geschichte von zwei befreundeten Helden, die versuchen, die Welt vor einem bösen Konzern zu retten. Das Spiel wurde auf Unity entwickelt, wobei ich aktiv OOP Prinzipien anwandte und mein eigenes Tick-System zur Steuerung der Spielprozesse entwickelte. Das Projekt enthielt einzigartige Elemente wie die vierte Wand: Das Spiel konnte den Spieler mit dem Namen des aktuellen Computerbenutzers ansprechen und Befehle von der CMD-Konsole abfangen, um die Geschichte voranzutreiben. Während des Entwicklungsprozesses sammelte ich wertvolle Erfahrungen in der Teamarbeit, verbesserte meine Programmierkenntnisse und lernte, wie man innovative Mechanismen in das Gameplay integriert.",
           "image": "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/CSN.png",
+          "slider": [
+            "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/CSN.png",
+            "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/CSN/slide1.png",
+            "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/CSN/slide2.png",
+            "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/CSN/slide3.jpg",
+            "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/CSN/slide4.jpg"
+          ],
           "link": "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/PDF/CSN.pdf"
         },
         {
@@ -85,6 +96,12 @@
           "title": " Python Programm für Scrap Mechanic",
           "description": "Programm für Scrap Mechanic ist ein Projekt in Python mit grafischer Benutzeroberfläche, das entwickelt wurde, um den Bauprozess im Spiel Scrap Mechanic zu vereinfachen. Das Programm lud abonnierte Konstruktionen aus dem Steam-Workshop herunter, konvertierte deren Dateien aus dem speziellen Spielformat und erstellte automatisch eine schematische Darstellung, die auf Blöcke angewendet wurde. Dadurch konnten Konstruktionen mit sichtbaren Umrissen im Überlebensmodus leicht nachgebaut werden. Das Projekt wurde auf GitHub veröffentlicht und erhielt dort eine kleine Popularität unter Scrap Mechanic Spielern, die an der Optimierung des Spielerlebnisses interessiert waren.",
           "image": "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/ScrapM.png",
+          "slider": [
+            "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/ScrapM.png",
+            "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/Scrap/slide1.jpg",
+            "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/Scrap/slide2.jpg",
+            "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/Scrap/slide3.jpg"
+          ],
           "link": "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/PDF/ScrapM.pdf"
         },
         {
@@ -92,6 +109,11 @@
           "title": "AR-Projekt für die Geschichte Schulausstellung",
           "description": "Ein AR-Projekt für eine Schulausstellung war dem Holocaust gewidmet und zeigte die tragischen Ereignisse der Verschleppung von Juden aus ihren Häusern in Konzentrationslager. Mit Hilfe von Augmented Reality (AR) schuf ich eine interaktive Anwendung, die es den Betrachtern ermöglichte, in die Atmosphäre dieser Zeit einzutauchen. Über ein mobiles Gerät oder ein Tablet konnte man animierte Szenen sehen, die von historischen Referenzen und einem Sounddesign begleitet wurden, das die Tragödie der Ereignisse vermittelte. Dieses Projekt hat nicht nur mein technisches Niveau und meine Fähigkeit, mit AR-Technologien zu arbeiten, unter Beweis gestellt, sondern auch ein wichtiges historisches Thema aufgedeckt und einen Beitrag zur Erinnerungsbildung und zum Bewusstsein für die Bedeutung der Menschlichkeit in der modernen Gesellschaft geleistet.",
           "image": "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/ARAPP.png",
+          "slider": [
+            "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/ARAPP.png",
+            "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/AR/slide1.png",
+            "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/AR/slide2.png"
+          ],
           "link": "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/PDF/AR.pdf",
           "phone": true
         }
