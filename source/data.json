@@ -35,6 +35,18 @@
       "name": "Projects",
       "content": [
         {
+          "sliderId": 0,
+          "title": "Dexter - Fan-Website",
+          "description": "Eine von mir entwickelte Fan-Webseite zum Serienklassiker Dexter, umgesetzt mit Vue.js und TypeScript. Die Plattform ermöglicht es Nutzern, verschiedene Staffeln und Episoden der Serie über eine moderne, übersichtliche Oberfläche anzusehen. Für die strukturierte Navigation habe ich den Vue Router eingesetzt, um saubere Staffel- und Episodenrouten sowie einen integrierten Videoplayer bereitzustellen. Erstmals verwendete ich dabei Pinia als State-Management-Lösung, um globale Zustände wie Episodenlisten, Ladezustände und Player-Daten effizient und klar strukturiert zu verwalten. Zusätzlich integrierte ich eine API eines bekannten russischen Streaming-Dienstes: Dadurch können Inhalte nur über den offiziellen Player geladen werden, was eine Schutzmaßnahme gegen Piraterie darstellt und sicherstellt, dass Nutzer ohne gültige Berechtigung keine Inhalte direkt abspielen können. Durch dieses Projekt konnte ich meine Kenntnisse in Vue.js, TypeScript, Routing-Strukturen und State-Management deutlich vertiefen. Außerdem sammelte ich praktische Erfahrung im Umgang mit externen APIs, im Aufbau sicherer Content-Integrationen sowie in der Entwicklung benutzerfreundlicher und responsiver Weboberflächen.",
+          "image": "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/Dexter.png",
+          "slider": [
+            "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/Dexter.png",
+            "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/Dexter/Slide2.png",
+            "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/img/Dexter/Slide3.png"
+          ],
+          "link": "https://gi0buscsn.github.io/AusbildungPortfolioHlib/source/img/Projects/PDF/Dexter.pdf"
+        },
+        {
           "sliderId": 1,
           "title": "Looksmaxing - your personal AI trainer",
           "description": "Eine von mir entwickelte Web-App auf Basis von Vue.js, die mithilfe der ChatGPT-API das Aussehen eines Nutzers nach dem „Looksmax“-Trend analysiert und personalisierte Verbesserungstipps gibt. Zusätzlich habe ich mit dem Framework Ionic und Capacitor eine Android-Version der App entwickelt. Bei der Entwicklung nutzte ich auch VueUse, um reaktive Funktionen effizient umzusetzen und den Code übersichtlich und wartbar zu gestalten. Durch dieses Projekt habe ich meine Kenntnisse in Vue.js, API-Integration und asynchroner Datenverarbeitung vertieft sowie wertvolle Erfahrungen im Mobile-Development, UX-Design und in der Umsetzung responsiver Benutzeroberflächen gesammelt. Außerdem habe ich gelernt, KI-basierte Funktionen sinnvoll in benutzerfreundliche Anwendungen zu integrieren und komplexe technische Prozesse klar und intuitiv für Nutzer darzustellen.",
